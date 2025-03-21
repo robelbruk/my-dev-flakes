@@ -7,3 +7,5 @@ This flake,
 ### Notes
 To extract the flake as a reusable dev environment on Github,
 - use ```nix develop github:yourname/dev-flakes/v1?dir=python-non-fhs```
+
+To simply run, in terminal -> ```nix develop```
